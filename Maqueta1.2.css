@@ -1,0 +1,24 @@
+/*Centro de Biotecnologia Agropecuaria
+Análisis y Desarrollo de Software
+FICHA: 2470980
+Autor: Yeimmy Katherine lugo Mora
+Fecha de creación: 16 de Marzo de 2022*/
+#columna1{
+    background-color: darkturquoise;
+    border: 3px; color: orange;
+}
+
+#columna2{
+    background-color: indianred;
+    border: 3px; color: orange;
+}
+
+#columna3{
+    background-color: darkslateblue;
+    border: 3px; color: orange;
+}
+
+#columna4{
+    background-color: lawngreen;
+    border: 3px; color: orange;
+}
